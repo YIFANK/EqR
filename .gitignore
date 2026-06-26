@@ -124,3 +124,6 @@ modal_outputs_*/
 eqr_modal_outputs*.tar.gz
 *_checkpoints.tar.gz
 modal_results_summary.csv
+
+# macOS
+.DS_Store
